@@ -1,0 +1,6 @@
+# Tested with Python 3.13, numpy 2.5, pandas 3.0, scipy 1.18, matplotlib 3.11, pysyncon 1.7
+numpy
+pandas
+scipy
+matplotlib
+pysyncon  # only for notebooks/pysyncon_official.py
